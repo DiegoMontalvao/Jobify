@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    }
+ul {
+    padding-left: 16px;
+    }
+h1 {
+    text-align: center;
+}
+#propaganda {
+    text-align: center;
+}
+h2{
+    background-color: #c4c4c4;
+    padding: 10px;
+    font-size: 20px;
+}
+h3{
+    font-size: 24px;
+}
+#container{
+    width: 500px;
+    align-items: center; 
+}
+li{
+    padding-left: 16px;
+    list-style: disc;
+    list-style-position: inside;
+}
